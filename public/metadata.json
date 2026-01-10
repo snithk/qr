@@ -1,0 +1,7 @@
+{
+  "name": "QR-Drop: Instant File Sharing",
+  "description": "Upload any file and instantly generate a secure, scannable QR code for easy sharing across devices.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

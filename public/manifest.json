@@ -1,0 +1,24 @@
+
+{
+  "name": "QR-Drop: Instant File Sharing",
+  "short_name": "QR-Drop",
+  "description": "Upload any file and instantly generate a secure, scannable QR code.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=qr-drop&backgroundColor=4f46e5",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=qr-drop&backgroundColor=4f46e5",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
